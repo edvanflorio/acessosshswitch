@@ -1,0 +1,172 @@
+2023-10-02 22:52:24,021 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: module 'paramiko' has no attribute 'AutoAddPOlicy'
+2023-10-02 22:52:24,021 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: module 'paramiko' has no attribute 'AutoAddPOlicy'
+2023-10-02 22:52:24,021 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: module 'paramiko' has no attribute 'AutoAddPOlicy'
+2023-10-02 22:52:24,022 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: module 'paramiko' has no attribute 'AutoAddPOlicy'
+2023-10-02 22:52:56,342 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:52:56,768 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:52:57,134 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:52:57,542 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:56:02,514 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:56:03,049 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:56:03,439 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:56:03,821 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:56:31,680 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:56:32,069 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:56:32,468 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:56:32,861 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:56:56,683 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:56:57,120 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:56:57,515 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:56:57,938 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:59:10,653 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:59:11,045 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:59:11,444 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 22:59:11,871 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.010.0.24.010.0.34.0: [Errno -2] Name or service not known
+2023-10-02 23:00:25,858 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:00:26,199 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:00:26,200 - INFO - Authentication (password) successful!
+2023-10-02 23:00:26,267 - INFO - Executando comando em 10.0.5.0: conf t 
+ show hostname
+2023-10-02 23:00:26,267 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.0: 'ChannelFile' object has no attribute 'redlines'
+2023-10-02 23:00:56,372 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:00:56,729 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:00:56,730 - INFO - Authentication (password) successful!
+2023-10-02 23:00:56,807 - INFO - Executando comando em 10.0.5.0: conf t 
+ show hostname
+2023-10-02 23:00:56,807 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.0: 'ChannelFile' object has no attribute 'redlines'
+2023-10-02 23:05:50,534 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:05:50,961 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:05:50,961 - INFO - Authentication (password) successful!
+2023-10-02 23:05:51,020 - INFO - Executando comando em 10.0.5.0: conf t 
+ show hostname
+2023-10-02 23:05:51,020 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.0: 'ChannelFile' object has no attribute 'redlines'
+2023-10-02 23:11:52,746 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:11:53,107 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:11:53,107 - INFO - Authentication (password) successful!
+2023-10-02 23:11:53,177 - INFO - Executando comando em 10.0.5.0: conf t 
+ show hostname
+2023-10-02 23:11:53,177 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.0: 'ChannelFile' object has no attribute 'redlines'
+2023-10-02 23:12:28,704 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:12:29,689 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:12:29,690 - INFO - Authentication (password) successful!
+2023-10-02 23:12:29,703 - INFO - Executando comando em 10.0.5.0: conf t 
+ show hostname
+2023-10-02 23:12:29,704 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.0: 'ChannelFile' object has no attribute 'redlines'
+2023-10-02 23:21:43,522 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:21:43,887 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:21:43,888 - INFO - Authentication (password) successful!
+2023-10-02 23:21:43,953 - INFO - Executando comando em 10.0.5.0: conf t 
+ show hostname
+2023-10-02 23:21:44,408 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.0: '>=' not supported between instances of 'int' and 'method'
+2023-10-02 23:24:18,770 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:24:21,307 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:24:21,308 - INFO - Authentication (password) failed.
+2023-10-02 23:24:21,308 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.0: Authentication failed.
+2023-10-02 23:25:45,360 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:25:47,864 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:25:47,865 - INFO - Authentication (password) failed.
+2023-10-02 23:25:47,865 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.0: Authentication failed.
+2023-10-02 23:26:53,637 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:26:56,138 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:26:56,139 - INFO - Authentication (password) failed.
+2023-10-02 23:26:56,139 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.0: Authentication failed.
+2023-10-02 23:29:07,969 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.0: SSHClient.connect() got an unexpected keyword argument 'ip'
+2023-10-02 23:31:27,585 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:31:30,060 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:31:30,060 - INFO - Authentication (password) failed.
+2023-10-02 23:31:30,061 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.0: Authentication failed.
+2023-10-02 23:33:48,036 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:33:50,553 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:33:50,554 - INFO - Authentication (password) failed.
+2023-10-02 23:33:50,555 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.0: Authentication failed.
+2023-10-02 23:35:44,552 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:35:44,954 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:35:44,954 - INFO - Authentication (password) successful!
+2023-10-02 23:35:45,016 - INFO - Executando comando em 10.0.5.0: conf t 
+ show hostname
+2023-10-02 23:35:45,365 - INFO - hostname SW3-PE-SQA-NBA-01
+2023-10-02 23:36:49,053 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.23.0: [Errno -2] Name or service not known
+2023-10-02 23:38:04,796 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.5.010.0.7.0: [Errno -2] Name or service not known
+2023-10-02 23:39:25,550 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:39:25,907 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:39:25,908 - INFO - Authentication (password) successful!
+2023-10-02 23:39:25,973 - INFO - Executando comando em 10.0.5.0: conf t 
+ show hostname
+2023-10-02 23:39:26,300 - INFO - hostname SW3-PE-SQA-NBA-01
+2023-10-02 23:39:33,422 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.7.0: [Errno None] Unable to connect to port 22 on 10.0.7.0
+2023-10-02 23:39:47,673 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:39:47,994 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:39:47,995 - INFO - Authentication (password) successful!
+2023-10-02 23:39:48,061 - INFO - Executando comando em 10.0.5.0: conf t 
+ show hostname
+2023-10-02 23:39:48,392 - INFO - hostname SW3-PE-SQA-NBA-01
+2023-10-02 23:39:48,441 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:39:48,853 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS AMAPA                        #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:39:48,854 - INFO - Authentication (password) successful!
+2023-10-02 23:39:48,923 - INFO - Executando comando em 10.0.23.0: conf t 
+ show hostname
+2023-10-02 23:39:49,263 - INFO - hostname SW3-PE-AAP-LOJ-01
+2023-10-02 23:41:56,595 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:41:56,957 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS SANTANA                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:41:56,957 - INFO - Authentication (password) successful!
+2023-10-02 23:41:57,021 - INFO - Executando comando em 10.0.5.0: conf t 
+ show hostname
+2023-10-02 23:41:57,367 - INFO - hostname SW3-PE-SQA-NBA-01
+2023-10-02 23:41:57,423 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:41:57,762 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS AMAPA                        #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:41:57,762 - INFO - Authentication (password) successful!
+2023-10-02 23:41:57,835 - INFO - Executando comando em 10.0.23.0: conf t 
+ show hostname
+2023-10-02 23:41:58,156 - INFO - hostname SW3-PE-AAP-LOJ-01
+2023-10-02 23:41:58,227 - INFO - Connected (version 2.0, client OpenSSH_8.8)
+2023-10-02 23:41:58,595 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                SW L3 MPLS CALCOENE                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:41:58,596 - INFO - Authentication (password) successful!
+2023-10-02 23:41:58,669 - INFO - Executando comando em 10.0.24.0: conf t 
+ show hostname
+2023-10-02 23:41:58,960 - INFO - hostname SW3-PE-COK-LOJ-01
+2023-10-02 23:41:59,049 - INFO - Connected (version 2.0, client OpenSSH_8.8)
+2023-10-02 23:41:59,619 - INFO - Auth banner: b'#####################################################\n#                                                   #\n#                                                   #\n#     ACESSO RESTRITO A ENGENHARIA DE REDES         #\n#             SW L3 MPLS BLM SGB                    #\n#                                                   #\n#                                                   #\n#####################################################\n'
+2023-10-02 23:41:59,619 - INFO - Authentication (password) successful!
+2023-10-02 23:41:59,720 - INFO - Executando comando em 10.0.34.0: conf t 
+ show hostname
+2023-10-02 23:42:00,131 - INFO - hostname SW3-PE-BLM-SGB-01
+2023-10-02 23:53:10,773 - INFO - Connected (version 2.0, client OpenSSH_7.9)
+2023-10-02 23:53:11,165 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                 SW L3 MPLS AMAPA                        #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:53:11,165 - INFO - Authentication (password) successful!
+2023-10-02 23:53:11,235 - INFO - Executando comando em 10.0.23.0: conf t 
+ aaa user core 
+ password p1c4nh4#1u14#b0b 
+ group admin 
+ commit
+2023-10-02 23:53:11,875 - INFO - Commit complete.
+2023-10-02 23:53:11,946 - INFO - Connected (version 2.0, client OpenSSH_8.8)
+2023-10-02 23:53:12,291 - INFO - Auth banner: b'###########################################################\n#   _       ____________  ________    ___   _____ __  __  #\n#  | |     / / ____/ __ )/ ____/ /   /   | / ___// / / /  #\n#  | | /| / / __/ / __  / /_  / /   / /| | \\__ \\/ /_/ /   #\n#  | |/ |/ / /___/ /_/ / __/ / /___/ ___ |___/ / __  /    #\n#  |__/|__/_____/_____/_/   /_____/_/  |_/____/_/ /_/     #\n#                                                         #\n#        ACESSO RESTRITO A ENGENHARIA DE REDES            #\n#                SW L3 MPLS CALCOENE                      #\n#                                                         #\n###########################################################\n'
+2023-10-02 23:53:12,292 - INFO - Authentication (password) successful!
+2023-10-02 23:53:12,365 - INFO - Executando comando em 10.0.24.0: conf t 
+ aaa user core 
+ password p1c4nh4#1u14#b0b 
+ group admin 
+ commit
+2023-10-02 23:53:13,027 - INFO - Commit complete.
+2023-10-02 23:53:13,136 - INFO - Connected (version 2.0, client OpenSSH_8.8)
+2023-10-02 23:53:13,520 - INFO - Auth banner: b'#####################################################\n#                                                   #\n#                                                   #\n#     ACESSO RESTRITO A ENGENHARIA DE REDES         #\n#             SW L3 MPLS BLM SGB                    #\n#                                                   #\n#                                                   #\n#####################################################\n'
+2023-10-02 23:53:13,520 - INFO - Authentication (password) successful!
+2023-10-02 23:53:13,620 - INFO - Executando comando em 10.0.34.0: conf t 
+ aaa user core 
+ password p1c4nh4#1u14#b0b 
+ group admin 
+ commit
+2023-10-02 23:53:14,444 - INFO - Commit complete.
+2023-10-03 00:10:34,802 - INFO - Connected (version 2.0, client OpenSSH_8.8)
+2023-10-03 00:10:35,249 - INFO - Auth banner: b'#####################################################\n#                                                   #\n#                                                   #\n#      ACESSO RESTRITO A ENGENHARIA DE REDES        #\n#               SW L3 MPLS CARNOT                   #\n#                                                   #\n#                                                   #\n#####################################################\n'
+2023-10-03 00:10:35,250 - INFO - Authentication (password) successful!
+2023-10-03 00:10:35,332 - INFO - Executando comando em 10.0.50.0: conf t 
+ aaa user core 
+ password p1c4nh4#1u14#b0b 
+ group admin 
+ commit
+2023-10-03 00:10:36,419 - INFO - Commit complete.
+2023-10-03 00:10:36,524 - INFO - Connected (version 2.0, client OpenSSH_8.8)
+2023-10-03 00:10:39,857 - INFO - Auth banner: b'#####################################################\n#                                                   #\n#                                                   #\n#      ACESSO RESTRITO A ENGENHARIA DE REDES        #\n#               SW L3 MPLS CARNOT                   #\n#                                                   #\n#                                                   #\n#####################################################\n'
+2023-10-03 00:10:39,858 - INFO - Authentication (password) failed.
+2023-10-03 00:10:39,858 - ERROR - Erro ao conectar-se ou executar comandos ssh em 10.0.50.0: Authentication failed.
